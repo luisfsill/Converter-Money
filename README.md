@@ -32,25 +32,25 @@ Um conversor de moedas moderno e intuitivo com cotações em tempo real. Desenvo
 
 ## 🛠️ Instalação
 
-1. Clone o repositório:
-\`\`\`bash
-git clone [https://github.com/luisfsill/conversor-moedas.git](https://github.com/luisfsill/Converter-Money.git)
-\`\`\`
+1. Clone o repositório para sua máquina local:
+```sh
+    git clone [https://github.com/luisfsill/Converter-Money.git](https://github.com/luisfsill/Converter-Money)
+```
 
-2. Entre no diretório do projeto:
-\`\`\`bash
-cd conversor-moedas
-\`\`\`
+2. Navegue até o diretório do projeto:
+```sh
+    cd conversor-moedas
+```
 
 3. Instale as dependências:
-\`\`\`bash
+```sh
 npm install
-\`\`\`
+```
 
 4. Inicie o servidor de desenvolvimento:
-\`\`\`bash
+```sh
 npm run dev
-\`\`\`
+```
 
 ## 🖥️ Uso
 
