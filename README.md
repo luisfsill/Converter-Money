@@ -34,7 +34,7 @@ Um conversor de moedas moderno e intuitivo com cotações em tempo real. Desenvo
 
 1. Clone o repositório para sua máquina local:
 ```sh
-    git clone [https://github.com/luisfsill/Converter-Money.git](https://github.com/luisfsill/Converter-Money)
+    git clone https://github.com/luisfsill/Converter-Money.git
 ```
 
 2. Navegue até o diretório do projeto:
