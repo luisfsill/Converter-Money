@@ -85,13 +85,13 @@ Contribuições são sempre bem-vindas! Por favor, leia o [guia de contribuiçã
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ## 👤 Autor
 
 Seu Nome
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-usuario)
+- GitHub: [@luisfsill](https://github.com/luisfsill)
+- LinkedIn: [Luís Felipe](https://linkedin.com/in/lluisfellipe)
 
 ## 🙏 Agradecimentos
 
