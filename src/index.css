@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-background min-h-screen font-sans;
+}
+
+@layer components {
+  .currency-card {
+    @apply bg-white rounded-xl p-6 shadow-card transition-all duration-300 hover:shadow-lg;
+  }
+  
+  .input-field {
+    @apply w-full p-3 rounded-lg border border-gray-200 focus:outline-none focus:ring-2 focus:ring-secondary transition-all;
+  }
+  
+  .btn-primary {
+    @apply bg-secondary text-white py-3 px-6 rounded-lg font-medium hover:bg-primary transition-all duration-300;
+  }
+  
+  .currency-flag {
+    @apply w-8 h-8 rounded-full object-cover mr-2;
+  }
+}

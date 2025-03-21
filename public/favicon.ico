@@ -1,0 +1,12 @@
+<!-- 
+Este é um placeholder para o favicon.ico.
+Em um ambiente de produção, você deve substituir este arquivo por um arquivo .ico real.
+
+Um favicon básico seria um SVG como este:
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#233876"/>
+  <text x="50" y="70" font-size="60" text-anchor="middle" fill="white" font-family="Arial, sans-serif">$</text>
+</svg>
+
+Salve isso como SVG e depois converta para ICO usando ferramentas online.
+--> 
